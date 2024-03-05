@@ -16,5 +16,5 @@ To run this project, you will need:
 - A virtual environment (highly recommended) to manage dependencies efficiently, especially given the project's large sample size.
 
 ## Dataset
-The dataset consists of call transcripts labeled with one of 58 possible categories. Unfortunately the dataset can't be shared publicly due to proprietory reasons.
+The training dataset(~270K documents) consists of call transcripts labeled with one of 58 possible categories. Unfortunately the dataset can't be shared publicly due to proprietory reasons.
 
